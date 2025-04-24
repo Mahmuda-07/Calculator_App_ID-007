@@ -42,7 +42,6 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Homepage"),
-        //backgroundColor: const Color.fromARGB(255, 255, 145, 0),
          backgroundColor: Colors.blueGrey,
         elevation: 10,
         actions: [
@@ -118,7 +117,6 @@ class HomePage extends StatelessWidget {
               height: 300,
               width: 350,
               decoration: BoxDecoration(
-                //color: const Color.fromARGB(255, 99, 139, 35),
                 color: Colors.grey,
                 border: Border.all(color: Colors.white, width: 6),
               ),
