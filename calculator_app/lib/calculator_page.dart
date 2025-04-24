@@ -73,7 +73,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
                         decoration: InputDecoration(
                           labelText: "Enter first number",
                           filled: true,
-                          fillColor: Colors.deepOrange,
+                          fillColor: Colors.brown,
                           border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(10),
                           ),
@@ -89,7 +89,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
                         decoration: InputDecoration(
                           labelText: "Enter second number",
                           filled: true,
-                          fillColor: Colors.deepOrange,
+                          fillColor: Colors.brown,
                           border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(10),
                           ),
